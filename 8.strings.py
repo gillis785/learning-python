@@ -1,5 +1,6 @@
 # Strings
-# type will show if and str
+# type will show if it is a str
+# ''' start of long string and ''' to end it
 
 print(type("Hello there 24!")) # string
 username = 'supercoder'
